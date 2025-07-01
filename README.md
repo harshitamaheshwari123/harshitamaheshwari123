@@ -61,17 +61,17 @@
 | Project Name        | Description                                               | Link     |
 |---------------------|-----------------------------------------------------------|----------|
 | **DocOnDwaar**       | Doctor availability & clinic tracking with location maps | 🔗 https://docondwaar-client.onrender.com |
-| **Quiz App**         | Quiz app with category & score tracking                  | 🔗 quiz-1z9gg5y6a-harshitas-projects-dead422a.vercel.app |
+| **Quiz App**         | Quiz app with category & score tracking                  | 🔗 https://quiz-app-ashy-zeta-14.vercel.app/ |
 | **FindClinic**       | App to locate nearby clinics with map integration        | 🔗 https://findclinic.onrender.com |
 | **JS Projects**      | Collection of fun and useful JavaScript mini projects    | 🔗 https://github.com/harshitamaheshwari123/JSPROJECTS|
 
 ---
 
-### 📊 GitHub Stats
+                                                          ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshitamaheshwari123&show_icons=true&count_private=true&theme=radical" />
+                                            <img src="https://github-readme-stats.vercel.app/api?username=harshitamaheshwari123&show_icons=true&count_private=true&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitamaheshwari123&layout=compact&theme=radical" />
+                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitamaheshwari123&layout=compact&theme=radical" />
 
 
 ---
