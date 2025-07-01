@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Harshita 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/harshita-maheshwari-a0a654258" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:harshitamaheshwari762@gmail.com">
@@ -60,10 +60,10 @@
 
 | Project Name        | Description                                               | Link     |
 |---------------------|-----------------------------------------------------------|----------|
-| **DocOnDwaar**       | Doctor availability & clinic tracking with location maps | 🔗 _Coming soon_ |
-| **Quiz App**         | Quiz app with category & score tracking                  | 🔗 _Coming soon_ |
-| **FindClinic**       | App to locate nearby clinics with map integration        | 🔗 _Coming soon_ |
-| **JS Projects**      | Collection of fun and useful JavaScript mini projects    | 🔗 _Coming soon_ |
+| **DocOnDwaar**       | Doctor availability & clinic tracking with location maps | 🔗 https://docondwaar-client.onrender.com |
+| **Quiz App**         | Quiz app with category & score tracking                  | 🔗 quiz-1z9gg5y6a-harshitas-projects-dead422a.vercel.app |
+| **FindClinic**       | App to locate nearby clinics with map integration        | 🔗 https://findclinic.onrender.com |
+| **JS Projects**      | Collection of fun and useful JavaScript mini projects    | 🔗 https://github.com/harshitamaheshwari123/JSPROJECTS|
 
 ---
 
