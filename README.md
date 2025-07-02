@@ -17,9 +17,9 @@
 
 ### 🧠 About Me
 
-- 🎨 I enjoy full-stack development  
+- 🎨 I enjoy Full-Stack Development  
 - 🌱 Currently learning more about Full Stack Development and how can I merge it with AI  
-- 💬 Ask me about anything JavaScript, React, or Backend Development 
+- 💬 Ask me about anything JavaScript, React, Backend Development and Frontend Development 
 - ⚡ Fun fact: I build projects before reading the full documentation 😄  
 
 ---
