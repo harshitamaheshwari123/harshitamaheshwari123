@@ -78,7 +78,7 @@
 
 ### 🎨 Fun Facts & Interests
 
-- 🎨 I love crafting smooth and beautiful UI/UX
+- 🎨 I love crafting smooth and beautiful Web Designs
 - 📚 I'm a lifelong learner — always trying out new tools and frameworks
 
 ---
