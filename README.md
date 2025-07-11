@@ -50,7 +50,7 @@
 
 #### 🌐 Hosting & Deployment
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
+![Render](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
 
 </div>
 
